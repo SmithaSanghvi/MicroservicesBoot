@@ -1,2 +1,0 @@
-# MicroservicesBoot
-JPA Integration
